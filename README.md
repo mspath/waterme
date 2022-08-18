@@ -2,7 +2,7 @@
 
 A Simple app which reminds you to water your plants.
 
-This is an idependent project of the [Android Basics in Kotlin] course from Google. It is developed in [Unit 6] [Pathway 1]
+This is an independent project of the [Android Basics in Kotlin] course from Google. It is developed in [Unit 6] [Pathway 1]
 
 This app is based on the [Project Water Me app] Codelab.
 
@@ -15,10 +15,10 @@ This app is based on the [Project Water Me app] Codelab.
 
 Environment
 
-- Kotlin 1.6.21
-- Android Studio Bumblebee 2021.1.1
-- Gradle Plugin 7.1.3
+- Kotlin 1.7.10
+- Android Studio Chipmunk 2021.2.1
+- Gradle Plugin 7.2.2
 
 ----
 
-updated: 2022-05-11
+updated: 2022-08-18
